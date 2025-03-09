@@ -1,3 +1,3 @@
 # heapsortrust
 
-A description of this project.
+Minimum Heap Sort implementation in Rust, partially complete.
